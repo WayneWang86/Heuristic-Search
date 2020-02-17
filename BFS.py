@@ -1,7 +1,5 @@
 '''ItrDFS.py
 by Wayne Wang
-UWNetID: wyf9686
-Student number: 1664873
 Date: Oct 11, 2019
 
 Assignment 2, in CSE 415, Autumn 2019.
@@ -13,7 +11,7 @@ import sys
 
 if sys.argv == [''] or len(sys.argv) < 2:
     #  import EightPuzzle as Problem
-    import Missionaries as Problem
+    import EightPuzzle as Problem
 else:
     import importlib
 

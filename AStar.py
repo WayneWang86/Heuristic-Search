@@ -2,8 +2,6 @@
 AStar.py
 modified modified version of starter code, UCS.py in CSE 415
 by Wayne Wang
-UWNetID: wyf9686
-Student number: 1664873
 Date: Oct 18, 2019
 
 Assignment 3, in CSE 415, Autumn 2019.
